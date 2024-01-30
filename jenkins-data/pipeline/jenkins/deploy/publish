@@ -1,0 +1,10 @@
+
+#!/bin/bash
+
+export IMAGE=&(sed -d '1p' /tmp/.auth)
+export TAG=&(sed -d '2p' /tmp/.auth)
+export PASS=&(sed -d '3p' /tmp/.auth)
+
+docker login -u login -p $PASS
+cd ~/maven && docker compose up -d
+

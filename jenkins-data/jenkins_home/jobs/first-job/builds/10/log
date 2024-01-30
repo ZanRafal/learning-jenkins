@@ -1,0 +1,8 @@
+Started by user [8mha:////4BjgqTchgw50QWsCAWJ8lHVkuoidprRxIpTMRJ0mxPWKAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mJenkins Admim
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/first-job
+[first-job] $ /bin/sh -xe /tmp/jenkins14943758570906204734.sh
++ /tmp/script.sh
+/tmp/script.sh: line 7: [: ==: unary operator expected
+Mark the show option if you want to see name
+Finished: SUCCESS
